@@ -24,5 +24,5 @@ nohup google-chrome \
   --disable-gpu \
   --disable-software-rasterizer \
   --profile-directory="Profile 1" \
-  "https://github.com/anicse37/Library_Management" \
+  "https://github.com/anicse37/Micro-Service" \
   >/dev/null 2>&1 &
